@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\zhujiale10.0\TOP.ncd
+OUTFILE=D:\zhujiale10.0\TOP.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=D:\zhujiale10.0
+LICENSE=WebPack
+USER_INFO=0_0_0
